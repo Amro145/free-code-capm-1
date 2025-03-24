@@ -7,8 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Amro",
-  "license": "ISC",
+"author": {
+  "name": "Amro Altayeb",
+  "email": "amro-email@example.com"
+},  "license": "ISC",
   "type": "commonjs",
   "dependencies": {
     "express": "^4.21.2"
